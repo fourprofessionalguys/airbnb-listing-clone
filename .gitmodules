@@ -1,3 +1,15 @@
 [submodule "reviews"]
   path=fourprofessionalguys/reviews
   url=https://www.github.com/fourprofessionalguys/reviews.git
+
+[submodule "amenities-services"]
+  path=fourprofessionalguys/amenities-services
+  url=https://github.com/fourprofessionalguys/amenities-services.git
+ 
+[submodule "host-profile"]
+  path=fourprofessionalguys/host-profile
+  url=https://github.com/fourprofessionalguys/host-profile.git
+
+[submodule "tour-this-place"]
+  path=fourprofessionalguys/tour-this-place
+  url=https://github.com/fourprofessionalguys/tour-this-place.git
