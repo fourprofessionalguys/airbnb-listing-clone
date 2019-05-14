@@ -13,3 +13,7 @@
 [submodule "tour-this-place"]
   path=fourprofessionalguys/tour-this-place
   url=https://github.com/fourprofessionalguys/tour-this-place.git
+
+[submodule "header-nav-footer"]
+  path=fourprofessional.guys/header-nav-footer
+  url=https://github.com/fourprofessionalguys/header-nav-footer.git
